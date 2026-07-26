@@ -4,6 +4,7 @@ public abstract class Acao implements Rendavel {
     private Double valor;
     private String nome;
     private Double taxaRendimento;
+    //teste
 
     public Acao(Double valor, String nome, Double taxaRendimento) {
         this.valor = valor;
