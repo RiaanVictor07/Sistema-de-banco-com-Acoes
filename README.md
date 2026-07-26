@@ -69,7 +69,7 @@ Total de rendimento mensal: 1.21
 Saldo atual: 189.01
 Saldo + Rendimento mensal: 190.22
 ```
-
+<!-->TESTETESTETESTE->
 ## 🚀 Possíveis melhorias futuras
 
 - Migrar o array `Acao[]` para uma estrutura dinâmica (`ArrayList`) para remover o limite fixo de ações.
